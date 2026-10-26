@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+data_files/
+result/
+example
+venv/
+*.xlsx
+*.csv
+*.zip
