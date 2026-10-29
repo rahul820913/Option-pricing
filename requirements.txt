@@ -1,0 +1,24 @@
+# Core
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+
+# Baselines (ANN, DINN, XGBoost notebooks)
+tensorflow
+xgboost
+
+# KAN notebooks
+pykan
+
+# KAT (katransformer.py)
+torch
+timm
+# kat_rational is installed from the rational_kat_cu folder (CUDA build):
+#   pip install -e rational_kat_cu
+
+# Notebooks
+jupyter
+ipykernel
