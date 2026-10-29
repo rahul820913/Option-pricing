@@ -60,6 +60,15 @@ pip install -e rational_kat_cu     # needs a CUDA-enabled PyTorch and GPU toolch
 jupyter notebook
 ```
 
+## Requirements
+```
+- Python 3.9+
+- PyTorch with CUDA (for KAT and `rational_kat_cu`)
+- TensorFlow and XGBoost (baseline models)
+- PyKAN (KAN models)
+- Full list in `requirements.txt`
+```
+
 Notes:
 
 - The KAT notebooks import `katransformer.py`, which depends on `rational_kat_cu` (module `kat_rational`), so they need a CUDA GPU.
