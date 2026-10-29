@@ -41,10 +41,8 @@ Option-pricing/
 │   ├── ANN_XGB.ipynb                         # ANN and XGBoost baselines
 │   ├── ANN_XGB_full_experiments.ipynb        # Full baseline experiments
 │   ├── DINN_                                 # DINN baseline (TensorFlow/Keras)
-│   ├── KAN Paper Data                        # KAN on the paper's data
-│   ├── KAN(2021-2026)                        # KAN on 2021-2026 data
+│   ├── KAN(2014-2020)                        # KAN on 2014-2020 data
 │   ├── KAN_multi_asset_experiments.ipynb     # KAN multi-asset experiments
-│   ├── KAT                                   # KAT experiments
 │   └── KAT_multi_asset_experiments.ipynb
 ├── kat/                                      # KAT code (git submodule)
 └── rational_kat_cu/                          # CUDA rational activation (git submodule)
